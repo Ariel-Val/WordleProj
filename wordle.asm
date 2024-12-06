@@ -1,3 +1,4 @@
+;Created by Ariel Val
 IDEAL
 JUMPS
 MODEL small
